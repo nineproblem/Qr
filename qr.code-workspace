@@ -1,0 +1,23 @@
+{
+  "folders": [
+	{
+		"path": "D:/php"
+	},
+	{
+		"path": "D:/okk soe protfilio"
+	},
+	{
+		"path": "D:/react"
+	},
+	{
+		"path": "D:/starbucks"
+	},
+	{
+		"path": "D:/php/miniProject1"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "okk soe protfilio",
+    "editor.mouseWheelZoom": true
+  }
+}
